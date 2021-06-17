@@ -1,0 +1,2 @@
+/Users/brightcircle/Project_Ouri/df_sent.csv filter=lfs diff=lfs merge=lfs -text
+/Users/brightcircle/Project_Ouri/kowikisource2_sep.xml filter=lfs diff=lfs merge=lfs -text
