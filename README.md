@@ -47,6 +47,6 @@ Gensim https://radimrehurek.com/gensim/models/word2vec.html
 ### 3. 저자
 
 - 서재현 (성균관대학교 유학동양한국철학과 박사과정)
-- 김병준 (성균관대학교 인터랙션사이언스학과 박사수료)
+- 김병준 (성균관대학교 인터랙션사이언스학과 박사수료, https://github.com/ByungjunKim)
 - 김민우 (성균관대학교 인간AI인터랙션융합전공 석사과정)
 - 박소정 (성균관대학교 유학동양한국철학과 교수)
