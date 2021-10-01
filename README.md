@@ -1,7 +1,8 @@
 # Project_Uri
 ### 1900년도 초반부터 한국전쟁 이전까지의 소설 텍스트 자료를 기계학습을 통한 디지털 방법론으로 분석하여 우리말 표현 '우리'에 대한 연구의 새로운 방향을 제시
 
-### 논문 링크 - 멀리서 읽는 “우리”― Word2Vec, N-gram을 이용한 근대 소설 텍스트 분석
+### 논문 링크
+#### 멀리서 읽는 “우리”― Word2Vec, N-gram을 이용한 근대 소설 텍스트 분석
 https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002758341
 
 ## 1. 코드설명
