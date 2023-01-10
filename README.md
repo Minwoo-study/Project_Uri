@@ -8,7 +8,7 @@ https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArti
 ## 1. 코드설명
 ### 데이터 수집
 1900년대 초반부터 한국전쟁 이전까지의 소설(신소설, 소설, 평론 등) 텍스트를 **위키문헌**에서 수집
-위키데이터 https://dumps.wikimedia.org/kowikisource/20210601/
+위키데이터 https://dumps.wikimedia.org/kowikisource/
 
 ### 1) 전처리
 #### xml 파싱
